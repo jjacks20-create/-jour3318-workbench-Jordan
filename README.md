@@ -1,7 +1,7 @@
 # JOUR 3318: Investigative Workbench
 
-**Student Name:** [Your Name]  
-**GitHub Username:** @[your-username]  
+**Student Name:** Jordan Jackson 
+**GitHub Username:** @jjacks20
 **Course:** JOUR 3318 — Digital Investigative Techniques  
 **Term:** [e.g., Fall 2026]  
 
