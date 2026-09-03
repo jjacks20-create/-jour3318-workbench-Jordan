@@ -17,18 +17,18 @@
 ## Detailed Log Entries
 
 ### Entry #001
-- **Date & Time:** `YYYY-MM-DD HH:MM`
-- **Tool / Model:** (e.g., Course Gemini Gem / Google AI Studio / Gemini Pro)
-- **Task Context:** (e.g., Performance Task 1 — Verifying recruiter company credentials)
+- **Date & Time:** `2026-9-3 1:20`
+- **Tool / Model:** Gemini 
+- **Task Context:** Converting the screenshots of my evidence to formats github will accept 
 
 #### 1. Input Prompt
 ```text
-[Paste your exact prompt here, including any system instructions or pasted background text]
+Convert these photos to jpegs Github will let me upload
 ```
 
 #### 2. Raw Model Response
 ```text
-[Paste the verbatim AI response without editing]
+The photos in my evidence folder 
 ```
 
 #### 3. Critical Evaluation & Hallucination Check
@@ -36,30 +36,27 @@
 - **Errors / Hallucinations Detected:** (e.g., The model claimed the company was incorporated in 2012, but state records show it was created in 2024.)
 - **Editorial Decision & Rationale:** 
   - [ ] **Accepted:** Factually accurate and verified.
-  - [x] **Modified:** Kept the summary format, but corrected the incorporation date and active entity status.
-  - [ ] **Rejected:** Discarded completely due to hallucinated sources or unverified assertions.
-
 ---
 
 ### Entry #002
-- **Date & Time:** `YYYY-MM-DD HH:MM`
-- **Tool / Model:** 
-- **Task Context:** 
+- **Date & Time:** `2026-9-3 1:25`
+- **Tool / Model:** Gemini search feature
+- **Task Context:** none
 
 #### 1. Input Prompt
 ```text
-[Your prompt]
+Ashley R td bank
 ```
 
 #### 2. Raw Model Response
 ```text
-[Raw output]
+There is no single public figure or universally known entity named "Ashley R" associated with TD Bank, as several professionals with the first name Ashley and last initial R work across various roles at the company, including talent acquisition and regional positions
 ```
 
 #### 3. Critical Evaluation & Hallucination Check
-- **Triangulation / Verification Method:** 
-- **Errors / Hallucinations Detected:** 
-- **Editorial Decision & Rationale:** `[ACCEPTED / MODIFIED / REJECTED]`
+- **Triangulation / Verification Method:** NA
+- **Errors / Hallucinations Detected:** NA
+- **Editorial Decision & Rationale:** ACCEPTED 
 
 ---
 
