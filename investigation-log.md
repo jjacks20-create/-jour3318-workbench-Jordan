@@ -36,7 +36,7 @@
 | **Vector 1: Recruiter Profile** | `evidence/Code_Generated_Image (12).jpeg |Low|
 | **Vector 2: Corporate Registry** | `https://opencorporates.com/companies/us_tx/0001840903` |Low|
 | **Vector 3: Domain Age / MX** | `This domain was registered less than 2 weeks ago|Low|
-| **Vector 4: Official Portal** | `https://td.wd3.myworkdayjobs.com/TD_Bank_Careers | | Low|
+| **Vector 4: Official Portal** | `https://td.wd3.myworkdayjobs.com/TD_Bank_Careers |Low|
 
 #### 3. Editorial Verdict
 - **Classification:** `PHISHING SCAM`
