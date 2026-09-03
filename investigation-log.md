@@ -18,31 +18,31 @@
 ## Detailed Investigation Files
 
 ### INV-01: LinkedIn Job Posting Vetting
-- **Investigation Date:** `YYYY-MM-DD`
-- **Case Selected:** `[Case 1 / Case 2 / Case 3]`
-- **Target URL / Entity:** `[e.g., SecuriElite Solutions — Carter Edwards]`
-- **Archived Snapshot / Artifact:** `[e.g., Sandbox Screenshot / WHOIS Record]`
+- **Investigation Date:** `2026-9-3`
+- **Case Selected:** Case 1 Ashley R.
+- **Target URL / Entity:** Ashley R. ,Recruiter at TD Bank | HR, Recruiting, Compliance
+- **Archived Snapshot / Artifact:** Sandbox Screenshot
 
 #### 1. Evidence & Chain of Custody
-| Item # | Description | Permanent Archive URL / Evidence File | Hash / Checksum (Optional) |
+| Item Screenshot | Description photo looking into the meta data of pfp 
 | :---: | :--- | :--- | :--- |
-| `E-01` | Recruiter Profile / InMail Screenshot | `evidence/inv01_recruiter.png` | — |
-| `E-02` | Corporate Registry Filing / Search Screenshot | `evidence/inv01_sos_registry.png` | — |
-| `E-03` | Domain WHOIS / Infrastructure Lookup | `evidence/inv01_whois.png` | — |
+| `E-01` | Recruiter Profile / InMail Screenshot |evidence/Code_Generated_Image (13).jpeg
+| `E-02` | Corporate Registry Filing / Search Screenshot | https://www.td.com/ca/en/business-banking/small-business/starting-your-business/business-registration
+| `E-03` | Domain WHOIS / Infrastructure Lookup | evidence/Code_Generated_Image (4).jpeg
 
 #### 2. Triangulation Matrix
 | Vector | Tool / Source Used | Observations & Evidence | Confidence |
 | :--- | :--- | :--- | :---: |
-| **Vector 1: Recruiter Profile** | `[e.g., Google Lens / Yandex]` | | `[High / Med / Low]` |
-| **Vector 2: Corporate Registry** | `[e.g., OpenCorporates / State SOS]` | | `[High / Med / Low]` |
-| **Vector 3: Domain Age / MX** | `[e.g., ICANN WHOIS / Sandbox Modal]` | | `[High / Med / Low]` |
-| **Vector 4: Official Portal** | `[e.g., Company Careers Page]` | | `[High / Med / Low]` |
+| **Vector 1: Recruiter Profile** | `evidence/Code_Generated_Image (12).jpeg |Low|
+| **Vector 2: Corporate Registry** | `https://opencorporates.com/companies/us_tx/0001840903` | Low|
+| **Vector 3: Domain Age / MX** | `This domain was registered less than 2 weeks ago| | Low|
+| **Vector 4: Official Portal** | `https://td.wd3.myworkdayjobs.com/TD_Bank_Careers | | Low|
 
 #### 3. Editorial Verdict
-- **Classification:** `[LEGITIMATE / PHISHING SCAM / GHOST JOB]`
-- **Information Disorder Taxonomy:** `[Imposter Content / Fabricated Content]`
-- **Confidence Level:** `[High / Medium / Low]` (Triangulated across independent vectors)
-- **Public Warning / Reporter Summary:** `[2-3 sentences explaining why a job seeker should avoid or proceed with this posting]`
+- **Classification:** `PHISHING SCAM`
+- **Information Disorder Taxonomy:** `Fabricated Content`
+- **Confidence Level:** `[High]` (Triangulated across independent vectors)
+- **Public Warning / Reporter Summary:** Even though this profile does a good job at putting on the illusion that the this is a legit job offer , but after taking a deep dive on the message sent by Ashley R. who is a Recruiter at TD Bank. The photo used for the profile came up with no matches on verification data bases, the email connected to the message is connected to known online scams, along with no record of a Ashley R. ever worked for TD Bank.
 
 ---
 
