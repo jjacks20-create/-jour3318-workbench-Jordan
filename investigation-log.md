@@ -8,7 +8,7 @@
 
 | ID | Title / Target | Phase / Task | Status | Primary Verification Vector |
 | :---: | :---: | :---: | :---: | :---: |
-| `INV-01` | [Job Vetting: LinkedIn Forensics Lab](#inv-01-linkedin-job-vetting) | Performance Task 1 (Day 0) | `Pending` | Recruiter Forensics + SOS Registry + WHOIS |
+| `INV-01` | [Job Vetting: LinkedIn Forensics Lab](#inv-01-linkedin-job-vetting) | Performance Task 1 (Day 0) | `Completed` | Recruiter Forensics + SOS Registry + WHOIS |
 | `INV-02` | [Health Misinformation: TikTok Seed Oil Claims](#inv-02-health-misinformation) | Performance Task 2 | `Pending` | PubMed Triangulation + Ad Network Tracking |
 | `INV-03` | [Video Forensics: Protest Footage Verification](#inv-03-video-forensics) | Performance Task 3 | `Pending` | InVID Keyframes + Shadow/Satellite Mapping |
 | `INV-04` | [Summative Capstone Investigation](#inv-04-capstone-investigation) | Performance Task 4 | `Pending` | Python Scraper + Google Pinpoint Document Index |
